@@ -16,8 +16,10 @@ You'll most likely want to create separate branches for each member of the team 
 
 We suggest installing Anaconda to run python, Jupyter, and several useful python libraries commonly used in Data Science. You can download Anaconda for your OS [here](https://www.anaconda.com/download/) (downloading the Python 3.7 version is recommended).
 
-Once you have Anaconda installed, run the command below to start your jupyter server
+Once you have Anaconda installed you'll want to start your jupyter server. To do this on Mac/Linux run the command below
 
 `jupyter notebook`
+
+For Windows, the easiest way to start your jupyter server is by launching the Jupyer Notebook Desktop app. This will automatically launch the UI in a separate browser window.
 
 You can navgiate to the repo you cloned by enter the url in your browser that is displayed in the output (most likely http://localhost:8888/) From there, you can create a Python 3 notebook where you can store all your work.
