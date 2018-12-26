@@ -4,7 +4,9 @@
 
 ### Using Git
 
-Git is a version-control system used to coordinate and share work among multiple team members. Run the command below in your terminal to clone this repo: 
+Git is a version-control system used to coordinate and share work among multiple team members It comes pre-installed on Mac and Linux systems, but you will most likely need to download and install it if you are using it on Windows for the first time. You can download it from Git's official website [here](https://git-scm.com/download/win). The download should start automatically. Feel free to just select all the default install options during setup.
+
+Once you have git installed, run the command below in your terminal (Mac/Linux) or command prompt (Windows) to clone this repo: 
 
 `git clone https://github.com/colezuber/b2b_immersion.git`
 
