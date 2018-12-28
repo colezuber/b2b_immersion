@@ -1,5 +1,61 @@
 # b2b_immersion
 
+## Mentors
+
+Nick Coleman -- Paid Search Bidding
+Minjoo Kim -- Sales and Service, B2B
+Cole Zuber -- Product Recommendations
+
+## Project overview
+
+Business-to-business (B2B) sales are a large component of the Wayfair portfolio, and strong growth in this business segment is primarily driven by repeat customers. In order to sustain this growth, Wayfair invests heavily in ensuring that our B2B customers receive best-in-class service. Outbound B2B sales calls are expensive, however, with an average cost of $16 per call. In order to inform how sales resources should be allocated, the B2B Data Science team develops models that 1) identify which customers are likely to convert, and 2) estimate the amount that different customers are likely to spend. 
+
+Given a repository of customer information, sales call records, and purchase history, you task is to predict the following:
+Which B2B customers will make a purchase in the next 30 days?
+Of the customers who are expected to make a purchase, how much will they spend?
+
+You will use your data-driven predictions to recommend a specific course of business actions and estimate the value-add that your recommendation would provide to Wayfair. A successful project will demonstrate sound technical analyses and a strong business sense. 
+
+## Intro to B2B
+
+Minjoo to fill in
+
+## Data
+
+Info on how the data was pulled
+Features
+To-dos: clean data, dummify categorical variables, create new features (e.g., number of days since enrollment), dimension reduction such as PCA
+
+## Evaluation metrics
+
+ROC AUC, RMSE
++ Maybe it would be helpful to tie in business context/use case here
+E.g., Are we more concerned about false positives or false negatives, given that an outbound call is expensive ($16/call)?
+
+## Proposed timeline
+
+Monday
+* Help set up python
+* Provide business context
+* Describe modeling problem
+* Share data and have participants do initial EDA
+
+Tuesday
+* More EDA
+* Initial modeling
+
+Wednesday
+* More modeling
+* Maybe we can provide more features
+
+Thursday
+* Final touches on modeling
+* Make presentation
+
+Friday
+* Presentation
+
+
 ## Setup
 
 ### Using Git
