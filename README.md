@@ -22,6 +22,10 @@ Minjoo to fill in
 
 ## Data
 
+Download links to the training and holdout data are below:
+  - Training: https://drive.google.com/open?id=1IHqLlAhnBE5yaBtAcWAd1BwC68DAK-HW
+  - Holdout: https://drive.google.com/open?id=15BrYznzZgGW_BCkiLd4pVcK67RI9u53E
+
 Info on how the data was pulled
 Features
 To-dos: clean data, dummify categorical variables, create new features (e.g., number of days since enrollment), dimension reduction such as PCA
