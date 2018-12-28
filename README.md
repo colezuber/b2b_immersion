@@ -2,9 +2,9 @@
 
 ## Mentors
 
-Nick Coleman -- Paid Search Bidding
-Minjoo Kim -- Sales and Service, B2B
-Cole Zuber -- Product Recommendations
+* Nick Coleman -- Paid Search Bidding
+* Minjoo Kim -- Sales and Service, B2B
+* Cole Zuber -- Product Recommendations
 
 ## Project overview
 
