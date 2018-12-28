@@ -23,8 +23,8 @@ Minjoo to fill in
 ## Data
 
 Download links to the training and holdout data are below:
-  - Training: https://drive.google.com/open?id=1IHqLlAhnBE5yaBtAcWAd1BwC68DAK-HW
-  - Holdout: https://drive.google.com/open?id=15BrYznzZgGW_BCkiLd4pVcK67RI9u53E
+  - [Training](https://drive.google.com/uc?export=download&id=1IHqLlAhnBE5yaBtAcWAd1BwC68DAK-HW)
+  - [Holdout](https://drive.google.com/uc?export=download&id=15BrYznzZgGW_BCkiLd4pVcK67RI9u53E)
 
 Info on how the data was pulled
 Features
